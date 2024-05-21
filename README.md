@@ -41,7 +41,7 @@ The dataset used for this project is the IBM HR Analytics Employee Attrition dat
 
 
 ## Results
-- The script `employee_attrition_prediction.py` performs the following tasks:
+- The script `employee_attrition_prediction.ipynb` performs the following tasks:
   - Data preprocessing: Handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
   - Baseline model training and evaluation.
   - Hyperparameter tuning using RandomizedSearchCV to optimize the model.
