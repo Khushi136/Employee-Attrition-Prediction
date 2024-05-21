@@ -16,19 +16,29 @@ The dataset used for this project is the IBM HR Analytics Employee Attrition dat
 - Joblib
 
 ## Usage
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/employee-attrition-prediction.git
-   ```
+    ```bash
+    git clone https://github.com/Khushi136/employee-attrition-prediction.git
+    ```
+
 2. Navigate to the project directory:
-   ```bash
-   cd employee-attrition-prediction
-   ```
+    ```bash
+    cd employee-attrition-prediction
+    ```
+
 3. Download the dataset from the provided link and place it in the project directory.
-4. Run the `employee_attrition_prediction.py` script to train and evaluate the predictive model:
-   ```bash
-   python employee_attrition_prediction.py
-   ```
+
+4. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. Open the Jupyter Notebook to run and explore the project:
+    ```bash
+    jupyter notebook Employee_Attrition_Prediction.ipynb
+    ```
+
 
 ## Results
 - The script `employee_attrition_prediction.py` performs the following tasks:
